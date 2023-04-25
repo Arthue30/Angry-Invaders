@@ -39,7 +39,7 @@ def creditos():
     pygame.mixer.music.pause()
     pygame.mixer.music.load('Star-Wars-tema.mp3')
     pygame.mixer.music.play()
-    input("Criadores: \nArthur Sobral de Macêdo \nGabriel Calabrese dos Santos da Silva \nLeonardo de Oliveira Nanes \nSarah Alves da Rocha Vieira ")
+    input("Criadores: \nArthur Sobral de Macêdo \nGabriel Calabrese dos Santos da Silva \nLeonardo de Oliveira Nanes ")
     pygame.mixer.music.pause()
     pygame.mixer.music.load('marcha-imperial.mp3')
     pygame.mixer.music.play()
